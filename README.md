@@ -19,7 +19,7 @@ node.js 내배캠 layered-architecture-pattern
 ### 실행(Terminal)
 
 ```bash
-git clone https://github.com/godee95/node_2week_homework
+git clone https://github.com/godee95/layered-architecture-pattern
 npm i
 
 ```
